@@ -1,4 +1,4 @@
-- 🔭 I'm currently working as an experienced mobile developer with 6+ years of experience in developing and delivering high-quality Android applications.
+- 🔭 I'm currently working as an experienced mobile developer with 7+ years of experience in developing and delivering high-quality Android applications.
 - 🌱 I'm currently exploring cross-platform development and continuously learning new technologies to stay up-to-date in the industry.
 - 👯 I'm looking to collaborate on projects that challenge my skills and help me grow as a developer.
 - 🤔 I'm open to help with any Android development-related questions or issues.
